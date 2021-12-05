@@ -1,4 +1,8 @@
 ## Hi there! 👋
+### I'm Abhiman Tiwari
+
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AbhimanTiwari?label=Follow&style=social"> <!--<img alt="GitHub followers" src="https://img.shields.io/github/followers/abhimantiwari?label=Follow&style=social"> -->
+
 
 <!--
 **abhimantiwari/abhimantiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
