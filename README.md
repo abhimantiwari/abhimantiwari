@@ -1,7 +1,7 @@
 ## Hi there! 👋
-### I'm Abhiman Tiwari
+<!--### I'm Abhiman Tiwari
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AbhimanTiwari?label=Follow&style=social"> <!--<img alt="GitHub followers" src="https://img.shields.io/github/followers/abhimantiwari?label=Follow&style=social"> -->
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AbhimanTiwari?label=Follow&style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/abhimantiwari?label=Follow&style=social"> -->
 
 
 <!--
