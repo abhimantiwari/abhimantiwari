@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/abhiman-tiwari/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn">
 </a>
+<a href="https://twitter.com/abhimantiwari"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AbhimanTiwari?label=Follow&style=social"> </a>
 </p>
 
 <!--
